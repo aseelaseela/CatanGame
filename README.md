@@ -1,7 +1,3 @@
-Below is a polished, Markdown-friendly README that you can copy and paste into your repository. Feel free to adjust or remove sections according to your needs!
-
----
-
 # CatanGame
 **Author:** [Aseel Ahmad](https://github.com/aseelaseela)
 
